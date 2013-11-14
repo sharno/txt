@@ -1,6 +1,5 @@
 Go to TEDActive or TED
 Go to Singularity University
-See and Touch a Koala
 See and Touch a Panda
 See Aurora
 Try weightlessness (going to space)
@@ -9,3 +8,4 @@ Impact 1 billion people
 Go scuba diving
 Eat Pizza in Italy
 Eat Cheese in Fance
+Visit MIT media lab
